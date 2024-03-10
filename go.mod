@@ -1,3 +1,3 @@
-module github.com/Richtermnd/sse
+module github.com/Richtermnd/seu
 
 go 1.22.0
